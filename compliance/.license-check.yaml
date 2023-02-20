@@ -3,6 +3,7 @@ allowedLicenses:
 - Apache*
 - Apache-2.0
 - Artistic-2.0
+- BSD*
 - BSD-2-Clause
 - BSD-3-Clause
 - CC0-1.0
@@ -16,16 +17,14 @@ allowedLicenses:
 - Unicode-TOU
 - Unlicense
 - Zlib
-# forbiddenLicenses:
-# - unknown
-# - AGPL-1.0-or-later
-# - AGPL-3.0-only
-# - AGPL-3.0-or-later
-# - GPL-1.0-only
-# - GPL-1.0-or-later
-# - GPL-2.0-only
-# - GPL-2.0-or-later
-# - GPL-3.0-only
-# - GPL-3.0-or-later
-excludedPackages: []
-include: []
+forbiddenLicenses:
+- unknown
+- AGPL-1.0-or-later
+- AGPL-3.0-only
+- AGPL-3.0-or-later
+- GPL-1.0-only
+- GPL-1.0-or-later
+- GPL-2.0-only
+- GPL-2.0-or-later
+- GPL-3.0-only
+- GPL-3.0-or-later
