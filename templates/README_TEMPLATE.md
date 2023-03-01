@@ -24,4 +24,4 @@ Currently, we're not ready to accept PRs, but we will in the nearest future.
 Meanwhile, feel free to post issues in this repo, and join our [contributors community](https://github.com/anytypeio/open/discussions).
 
 ## License
-This solution is licensed under the **!!!To be choosen!!!** Anytype or MIT license, also included in this repository in the LICENSE file. 
+This solution is licensed under the **!!!To be chosen!!!** Anytype or MIT license, also included in this repository in the LICENSE file. 
