@@ -6,7 +6,7 @@ Anytype Contributor's Community
 Contains a template for the `README` file to be used in each public Anytype repository.
 
 ## Compliance
-### `.license-check.yaml`
+### `licenses-config.yaml` & `licenses-config.json`
 
 Contains references for allowed and forbidden licenses. [SPDX](https://spdx.org/licenses/) short-form identifiers were used when possible.
 
