@@ -1,8 +1,6 @@
 <!-- # project name, e.g. "Anytype iOS App" or "Any-sync Node" -->
 <!-- Short description in a few sentances, e.g.:
-Our mission is to empower sustainable cooperation,
-building tools for thought, freedom and trust. 
-We want to open up the opportunities to innovate in all parts of the system to those who have ideas and passion to make it better. We invite everyone to build Anytype with us, not as employees but as co-owners. -->
+Anytype application is a local-first, E2E encrypted software designed as a secure place to create and store digital content. You can use Anytype to create and connect your tasks, notes, ideas, documents, workflows, and more. -->
 
 
 ## Building the source
@@ -17,6 +15,7 @@ We want to open up the opportunities to innovate in all parts of the system to t
 <!-- configurations and parametres to run, special requirements -->
 <!-- how to run in self-hosted mode -->
 
+<!-- optional 
 ## Contribution
 Thank you for your desire to develop Anytype together. 
 
@@ -24,4 +23,4 @@ Currently, we're not ready to accept PRs, but we will in the nearest future.
 Meanwhile, feel free to post issues in this repo, and join our [contributors community](https://github.com/anytypeio/open/discussions).
 
 ## License
-This solution is licensed under the **!!!To be chosen!!!** Anytype or MIT license, also included in this repository in the LICENSE file. 
+This solution is licensed under the **!!!To be chosen!!!** Anytype or MIT license, also included in this repository in the LICENSE file. -->
